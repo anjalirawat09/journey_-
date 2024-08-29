@@ -1,0 +1,4 @@
+2024-07-03 13:27:15,491 [INFO] journey: Fetching details for job ID: 66
+2024-07-03 13:27:15,566 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'job_details.interview_within' in 'field list'")
+2024-07-03 13:28:10,637 [INFO] journey: Journeys retrieved successfully.
+2024-07-03 13:29:57,913 [INFO] journey: Journeys retrieved successfully.

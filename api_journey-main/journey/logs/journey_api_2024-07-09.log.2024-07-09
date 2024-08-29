@@ -1,0 +1,161 @@
+2024-07-10 05:29:33,570 [INFO] journey: Fetching details for job ID: 66
+2024-07-10 05:29:33,573 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 05:29:33,575 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-10 05:29:33,577 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-10 05:29:33,583 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-10 05:29:33,586 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-10 05:29:36,228 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-10 05:29:36,233 [INFO] journey: Successfully fetched candidate data
+2024-07-10 05:30:32,278 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 05:47:23,115 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-10 05:47:23,121 [INFO] journey: Successfully fetched candidate data
+2024-07-10 06:51:57,475 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 06:51:57,477 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 06:51:57,479 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 06:51:57,481 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 06:51:58,454 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 06:51:58,455 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 06:51:58,458 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 06:51:58,460 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 06:51:58,614 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 06:51:58,616 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 06:51:58,618 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 06:51:58,620 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 06:52:20,699 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 06:52:20,701 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 06:52:20,704 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 06:52:20,706 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 06:52:27,518 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 06:52:27,521 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-10 06:52:27,523 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 06:52:27,525 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:41:10,648 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:41:10,652 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:41:10,655 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:41:10,657 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:41:13,076 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:41:13,078 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:41:13,080 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:41:13,082 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:43:10,108 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:43:10,109 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:43:10,111 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:43:10,113 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:43:26,096 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 07:44:58,061 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 07:45:57,755 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:45:57,758 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:45:57,761 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:45:57,762 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:46:03,408 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:46:03,410 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:46:03,412 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:46:03,414 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:46:18,330 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:46:18,332 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:46:18,334 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:46:18,335 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:46:21,266 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:46:21,269 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:46:21,272 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:46:21,274 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:46:32,893 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 07:47:11,459 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 07:50:25,878 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:50:25,881 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:50:25,884 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:50:25,886 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:50:33,000 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:50:33,002 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:50:33,005 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:50:33,007 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:50:38,194 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:50:38,196 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:50:38,198 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:50:38,200 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:50:48,878 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:50:48,881 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:50:48,911 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:50:48,913 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:51:02,014 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:51:02,016 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:51:02,019 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:51:02,021 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:54:05,471 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 07:56:09,814 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 07:56:09,816 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:56:09,819 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 07:56:09,820 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 07:57:39,411 [INFO] journey: Fetching details for job ID: 66
+2024-07-10 07:57:39,413 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 07:57:39,416 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-10 07:57:39,417 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-10 07:57:39,421 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-10 07:57:39,424 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-10 08:24:24,948 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 08:24:24,950 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 08:24:24,953 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 08:24:24,954 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:15:32,648 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:15:32,650 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:15:32,652 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:15:32,654 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:16:49,901 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 09:17:31,318 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:17:31,320 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:17:31,323 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:17:31,326 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:18:00,658 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:18:00,661 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:18:00,663 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:18:00,664 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:18:04,564 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 09:21:10,607 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 09:21:21,644 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:21:21,646 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:21:21,648 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:21:21,650 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:31:03,404 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:31:03,406 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:31:03,409 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:31:03,411 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:46:22,669 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:46:22,671 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-10 09:46:22,673 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:46:22,676 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:53:50,657 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:53:50,660 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:53:50,662 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:53:50,664 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:53:52,989 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 09:53:52,992 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 09:53:52,994 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 09:53:52,996 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 09:59:16,822 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-10 10:03:21,348 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:03:21,350 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 10:03:21,352 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:03:21,354 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 10:10:49,987 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:10:49,989 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 10:10:49,991 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:10:49,993 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 10:10:53,101 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:10:53,103 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 10:10:53,105 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:10:53,107 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 10:11:09,057 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:11:09,059 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-10 10:11:09,060 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:11:09,062 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 10:16:59,439 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:16:59,441 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 10:16:59,443 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:16:59,445 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 10:31:15,520 [INFO] journey: Fetching details for job ID: 2
+2024-07-10 10:31:15,523 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-10 10:31:15,525 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-10 10:31:15,527 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-10 11:29:01,693 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 20:06:57,653 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-10 20:06:57,658 [INFO] journey: Successfully fetched candidate data

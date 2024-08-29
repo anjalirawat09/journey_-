@@ -1,0 +1,280 @@
+2024-06-27 06:20:42,520 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 06:22:46,472 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 06:27:39,431 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 06:41:52,574 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 06:58:36,638 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 07:00:59,234 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 07:07:55,219 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:10:58,948 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:10:59,093 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:11:25,838 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:11:25,981 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:13:24,278 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:13:24,563 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:14:35,196 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:14:35,467 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:15:35,262 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:15:35,417 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:16:04,999 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:16:26,895 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:16:27,037 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:20:51,629 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 07:35:05,929 [ERROR] journey: No next event found for journey_id 27 and parent_id 61
+2024-06-27 07:35:06,058 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-27 08:17:37,872 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:17:37,944 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:17:38,017 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:17:38,090 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:17:38,168 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:17:38,243 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:18:15,880 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:18:20,814 [INFO] journey: {'journey_id': 1}
+2024-06-27 08:18:20,885 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-06-27 08:18:34,957 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:18:42,096 [WARNING] journey: Invalid data provided for journey creation.
+2024-06-27 08:19:20,694 [INFO] journey: Journeys created successfully.
+2024-06-27 08:19:21,550 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:19:21,624 [WARNING] journey: No journey events found for journey_id 28.
+2024-06-27 08:20:19,377 [WARNING] journey: Invalid data provided: {'state': [ErrorDetail(string="This field should be null when 'Mark_as_Online' is True for 'One on one' interview type.", code='invalid')]}
+2024-06-27 08:20:32,606 [WARNING] journey: Invalid data provided: {'state': [ErrorDetail(string="This field should be null when 'Mark_as_Online' is True for 'One on one' interview type.", code='invalid')]}
+2024-06-27 08:20:48,670 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:20:48,730 [WARNING] journey: No journey events found for journey_id 28.
+2024-06-27 08:21:24,664 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-06-27 08:21:57,177 [INFO] journey: Journey event is posted successfully.
+2024-06-27 08:21:58,117 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:21:58,206 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:22:04,438 [INFO] journey: Journey event with id 63 updated successfully.
+2024-06-27 08:22:05,303 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:22:05,366 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:22:05,946 [INFO] journey: Journey event with id 63 updated successfully.
+2024-06-27 08:22:06,655 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:22:06,732 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:33:31,776 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string='skills should only contain alphanumeric characters and spaces.', code='invalid')]}
+2024-06-27 08:33:45,761 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string='skills should only contain alphanumeric characters and spaces.', code='invalid')]}
+2024-06-27 08:33:52,084 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-06-27 08:33:58,547 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-06-27 08:34:02,423 [INFO] journey: Journey event is posted successfully.
+2024-06-27 08:34:03,071 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:34:03,126 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:35:40,337 [WARNING] journey: Invalid data provided: {'close_link_within_interval': [ErrorDetail(string="This field is required for 'Third Party integration' interview type.", code='invalid')]}
+2024-06-27 08:35:57,219 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-06-27 08:36:03,798 [INFO] journey: Journey event is posted successfully.
+2024-06-27 08:36:04,474 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:36:04,532 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:36:27,605 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:36:34,732 [INFO] journey: {'journey_id': 28}
+2024-06-27 08:36:34,795 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 08:43:08,074 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:43:24,858 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:43:24,921 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:43:24,986 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:43:25,050 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:43:25,133 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:43:25,197 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:43:32,608 [INFO] journey: Fetching details for job ID: 66
+2024-06-27 08:43:32,674 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:43:32,743 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 08:43:32,810 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 08:43:32,881 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 08:43:32,951 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-27 08:48:29,424 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:29,494 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:29,566 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:29,637 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:29,709 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:29,781 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:31,665 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:31,738 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:31,809 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:31,881 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:31,953 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:32,026 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:33,920 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:33,991 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:34,095 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:34,166 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:34,238 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:34,318 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:35,133 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:35,203 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:35,280 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:35,354 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:35,428 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:35,503 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:39,080 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:48:41,961 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:42,036 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:42,117 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:42,193 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:42,272 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:42,353 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:45,437 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:45,532 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:45,605 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:45,675 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:45,748 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:45,822 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:47,511 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:47,613 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:47,699 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:47,773 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:47,846 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:47,916 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:50,249 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:50,324 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:50,405 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:50,483 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:50,552 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:50,623 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:51,449 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:51,519 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:51,590 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:51,661 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:51,773 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:51,845 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:48:55,526 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:48:55,599 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:48:55,677 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:48:55,752 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:48:55,841 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:48:55,917 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:49:04,799 [INFO] journey: Fetching details for job ID: 66
+2024-06-27 08:49:04,872 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:49:04,946 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 08:49:05,020 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 08:49:05,090 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 08:49:05,165 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-27 08:54:57,835 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 08:54:57,906 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 08:54:57,977 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 08:54:58,048 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 08:54:58,118 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 08:54:58,216 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 08:56:35,083 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:56:59,679 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:57:10,878 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:59:29,215 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 08:59:55,547 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:00:37,184 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:00:44,486 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:00:57,715 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:01:04,666 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:01:44,920 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:01:50,021 [INFO] journey: {'journey_id': 28}
+2024-06-27 09:01:50,110 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 09:04:50,264 [INFO] journey: {'journey_id': 28}
+2024-06-27 09:04:50,333 [INFO] journey: Journey events with  journey id 28 retrieved successfully.
+2024-06-27 09:04:50,761 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:08:02,075 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:09:54,796 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:10:01,697 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:11:29,272 [INFO] journey: Fetching details for job ID: 66
+2024-06-27 09:11:29,340 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 09:11:29,410 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 09:11:29,476 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 09:11:29,543 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 09:11:29,610 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-27 09:12:41,633 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:13:11,066 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:13:12,797 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 09:13:12,864 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 09:13:12,937 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 09:13:13,007 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 09:13:13,070 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 09:13:13,132 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 09:13:24,444 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 09:13:24,521 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 09:13:24,631 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 09:13:24,703 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 09:13:24,774 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 09:13:24,851 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 09:13:47,769 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:14:14,294 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:15:02,860 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:15:47,086 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:16:08,466 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:17:33,363 [INFO] journey: Journeys created successfully.
+2024-06-27 09:17:34,365 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:17:34,425 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:18:02,009 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:18:02,073 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:18:24,028 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:18:24,096 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:19:10,976 [WARNING] journey: Invalid data provided: {'bot_variant': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'bot_segment': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'campaign_type': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'campaign_variant': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'campaign_segment': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'bot_language': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'campaign': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-06-27 09:19:15,260 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:19:15,350 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:19:34,590 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:19:34,680 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:19:54,528 [INFO] journey: {'journey_id': 29}
+2024-06-27 09:19:54,626 [WARNING] journey: No journey events found for journey_id 29.
+2024-06-27 09:22:51,125 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 09:22:51,188 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 09:22:51,252 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 09:22:51,317 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 09:22:51,382 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 09:22:51,446 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 09:29:06,740 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:31:54,457 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 09:34:11,007 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:36:47,482 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:39:09,691 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:43:17,724 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:46:57,497 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 09:50:52,108 [ERROR] journey: An error occurred: The database backend does not accept 0 as a value for AutoField.
+2024-06-27 09:51:04,999 [INFO] journey: Jobs added to CandidateJourney successfully.
+2024-06-27 09:53:03,156 [INFO] journey: Fetching details for job ID: 66
+2024-06-27 09:53:03,217 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 09:53:03,278 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 09:53:03,338 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 09:53:03,398 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 09:53:03,461 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-27 10:07:09,360 [INFO] journey: Fetching details for job ID: 66
+2024-06-27 10:07:09,421 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 10:07:09,486 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 10:07:09,545 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 10:07:09,656 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 10:07:09,717 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-27 10:07:18,338 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 10:07:18,397 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 10:07:18,459 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 10:07:18,520 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 10:07:18,586 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 10:07:18,648 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 10:44:54,660 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 10:44:54,726 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 10:44:54,805 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 10:44:54,875 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 10:44:54,937 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 10:44:55,000 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 10:44:56,892 [INFO] journey: Fetching details for job ID: 2
+2024-06-27 10:44:56,956 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 10:44:57,019 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-27 10:44:57,082 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-27 10:44:57,143 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-27 10:44:57,205 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-27 11:10:44,980 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 11:11:39,265 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 11:13:31,153 [INFO] journey: {'journey_id': 1}
+2024-06-27 11:13:31,215 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-06-27 11:14:03,923 [WARNING] journey: Invalid data provided for journey creation.
+2024-06-27 11:17:59,529 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 11:18:25,085 [INFO] journey: Fetching details for job ID: 67
+2024-06-27 11:18:25,166 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 11:18:25,243 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 11:18:25,318 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 11:18:25,393 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 11:18:25,471 [INFO] journey: Successfully fetched data for job ID: 67
+2024-06-27 11:18:28,855 [INFO] journey: Fetching details for job ID: 67
+2024-06-27 11:18:28,930 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 11:18:29,005 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 11:18:29,080 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 11:18:29,156 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 11:18:29,229 [INFO] journey: Successfully fetched data for job ID: 67
+2024-06-27 11:18:30,041 [INFO] journey: Fetching details for job ID: 67
+2024-06-27 11:18:30,110 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-27 11:18:30,180 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-27 11:18:30,247 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-27 11:18:30,312 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-27 11:18:30,427 [INFO] journey: Successfully fetched data for job ID: 67
+2024-06-27 11:26:09,128 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 11:30:37,650 [INFO] journey: Journeys retrieved successfully.

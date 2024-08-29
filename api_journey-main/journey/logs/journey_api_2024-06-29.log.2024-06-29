@@ -1,0 +1,91 @@
+2024-07-02 05:24:28,179 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 05:27:56,351 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 05:37:31,115 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 05:41:59,708 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 05:43:41,504 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 05:55:27,677 [INFO] journey: Journey events with  journey id 2 retrieved successfully.
+2024-07-02 06:00:33,540 [INFO] journey: Journey events with  journey id 2 retrieved successfully.
+2024-07-02 06:05:51,854 [INFO] journey: Journey events with  journey id 2 retrieved successfully.
+2024-07-02 07:04:31,095 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:05:44,469 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:13:32,988 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:13:42,667 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:19:23,833 [WARNING] journey: No journey events found for journey_id 42.
+2024-07-02 07:36:17,579 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:36:34,545 [WARNING] journey: No journey events found for journey_id 43.
+2024-07-02 07:37:21,880 [WARNING] journey: Invalid data provided for journey creation.
+2024-07-02 07:39:39,405 [INFO] journey: Journeys created successfully.
+2024-07-02 07:39:40,257 [WARNING] journey: No journey events found for journey_id 44.
+2024-07-02 07:40:12,236 [INFO] journey: Journeys created successfully.
+2024-07-02 07:40:27,499 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:40:58,741 [WARNING] journey: No journey events found for journey_id 46.
+2024-07-02 07:41:10,567 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:41:15,045 [INFO] journey: Journey events with  journey id 2 retrieved successfully.
+2024-07-02 07:46:42,375 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:46:46,096 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-02 07:48:44,281 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 07:49:11,211 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-02 07:51:23,695 [INFO] journey: Journey event is posted successfully.
+2024-07-02 07:58:24,258 [INFO] journey: Journey event is posted successfully.
+2024-07-02 07:58:25,060 [INFO] journey: Journey events with  journey id 43 retrieved successfully.
+2024-07-02 08:02:23,239 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Both 'immediately' and 'relative_time_period' cannot be provided together.", code='invalid')]}
+2024-07-02 08:03:11,970 [INFO] journey: Journey event is posted successfully.
+2024-07-02 08:11:07,039 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 08:11:35,692 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 08:15:23,222 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 08:17:58,741 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 08:19:05,885 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:19:38,736 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:20:03,820 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:27:24,601 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:31:52,051 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:32:22,949 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 09:33:59,501 [WARNING] journey: Invalid data provided for journey creation.
+2024-07-02 09:54:53,466 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:07:12,241 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:12:28,276 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:15:20,487 [WARNING] journey: No journey events found for journey_id 5.
+2024-07-02 10:16:21,283 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string='skills should only contain alphanumeric characters and spaces.', code='invalid')]}
+2024-07-02 10:17:32,448 [WARNING] journey: Invalid data provided: {'bot_type': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')], 'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-07-02 10:18:36,464 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:22:30,124 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:22:59,875 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-07-02 10:23:12,702 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-07-02 10:23:12,993 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-07-02 10:23:13,710 [WARNING] journey: Invalid data provided: {'skills': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-07-02 10:24:41,479 [INFO] journey: Journey events with  journey id 5 retrieved successfully.
+2024-07-02 10:27:51,301 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:28:59,142 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:30:15,804 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:36:47,061 [INFO] journey: Journey events with  journey id 5 retrieved successfully.
+2024-07-02 10:37:56,579 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:41:20,772 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:43:55,216 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:44:17,161 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:49:09,175 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 10:54:26,411 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:00:05,774 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:00:26,200 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:02:59,722 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:07:28,780 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:10:47,664 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:11:28,631 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:16:48,792 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:17:50,138 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:19:09,614 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:22:09,072 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:26:25,289 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:27:15,564 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:27:58,049 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:35:18,400 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:37:26,723 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:46:33,515 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:47:34,948 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:52:19,864 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 11:52:23,927 [INFO] journey: Journey events with  journey id 43 retrieved successfully.
+2024-07-02 11:52:36,367 [INFO] journey: Journey event with id 68 updated successfully.
+2024-07-02 11:59:33,227 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 12:11:38,978 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 12:15:53,787 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 12:17:12,907 [INFO] journey: Journeys retrieved successfully.
+2024-07-02 12:19:11,005 [INFO] journey: Journeys retrieved successfully.

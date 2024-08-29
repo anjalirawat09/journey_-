@@ -1,0 +1,210 @@
+2024-07-20 12:36:43,418 [INFO] journey: No jobs to add whose journey is not updated in AddToJobs.
+2024-07-20 12:37:50,677 [INFO] journey: Job successfully added to CandidateJourney: job_id=2, candidate_id=2482, journey_id=169
+2024-07-20 12:37:50,756 [ERROR] journey: No JourneyEvents found for job with job_id=53 and journey_id=1 and parent_id=0
+2024-07-20 12:37:50,851 [INFO] journey: Jobs added to CandidateJourney successfully.
+<<<<<<< HEAD
+2024-07-20 11:26:39,251 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:17,161 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:25,016 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:27,037 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:28,607 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:31,314 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:33,020 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:34,526 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:36,687 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:37,936 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:39,087 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:40,108 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:40,966 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:42,038 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:43,270 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:44,214 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:27:44,866 [ERROR] journey: An error occurred: 'WSGIRequest' object has no attribute 'UserData'
+2024-07-20 11:27:44,878 [WARNING] journey: No journey events found for journey_id 185.
+2024-07-20 11:27:44,957 [INFO] journey: Retrieved 3 segment categories for journey_id 185.
+2024-07-20 11:27:59,042 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:31:54,570 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:31:57,993 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 11:31:57,994 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:32:04,698 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 11:32:05,115 [INFO] journey: Retrieved 14 campaigns for segment_category_id 1.
+2024-07-20 11:32:06,929 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 2, interview_type: bot call
+2024-07-20 11:34:01,063 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:34:01,084 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 11:34:27,342 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:34:28,768 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 11:35:09,196 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:35:09,201 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 11:35:13,375 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:35:13,377 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 11:35:13,587 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:35:19,825 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:49:52,659 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 11:50:00,579 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 11:50:00,799 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:11:48,584 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:11:50,272 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:11:50,438 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:12:00,824 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:12:03,761 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:12:10,756 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:12:31,327 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:12:31,442 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:12:35,884 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:12:35,885 [INFO] journey: Retrieved 14 campaigns for segment_category_id 1.
+2024-07-20 12:12:41,276 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:12:44,957 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:12:44,962 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:12:51,110 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:12:51,112 [INFO] journey: Retrieved 14 campaigns for segment_category_id 1.
+2024-07-20 12:12:57,818 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:12:57,818 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:13:01,336 [INFO] journey: Retrieved 1 bots for segment_category_id 3.
+2024-07-20 12:13:01,342 [INFO] journey: Retrieved 5 campaigns for segment_category_id 3.
+2024-07-20 12:14:26,835 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:14:26,835 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:19:34,368 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:19:41,674 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:19:42,069 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:19:57,225 [INFO] journey: Retrieved 23 campaigns for segment_category_id 1.
+2024-07-20 12:19:57,227 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:23:58,307 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:24:04,435 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:24:04,455 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:24:11,988 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:24:11,988 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:24:15,749 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:24:15,750 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:24:19,178 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 80, interview_type: bot call
+2024-07-20 12:27:09,347 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:27:35,498 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:27:35,991 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:27:40,375 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:27:40,563 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:27:42,247 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-20 12:30:02,011 [ERROR] journey: An error occurred: 'WSGIRequest' object has no attribute 'UserData'
+2024-07-20 12:30:02,018 [WARNING] journey: No journey events found for journey_id 185.
+2024-07-20 12:30:02,037 [INFO] journey: Retrieved 3 segment categories for journey_id 185.
+2024-07-20 12:30:08,742 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:30:08,749 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:30:15,690 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:30:15,694 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:30:16,435 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:30:17,436 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:30:17,436 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:30:22,842 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:30:27,674 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:30:35,173 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:30:37,930 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 13, interview_type: bot call
+2024-07-20 12:30:39,008 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:30:39,009 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:30:46,327 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 11, interview_type: bot call
+2024-07-20 12:34:10,450 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:34:10,640 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:34:18,191 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:34:18,193 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:34:20,350 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 13, interview_type: bot call
+2024-07-20 12:34:20,837 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:34:21,143 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:34:53,843 [INFO] journey: Journeys created successfully.
+2024-07-20 12:34:54,527 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:34:56,829 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:35:03,273 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:35:03,273 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:35:09,789 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:35:09,791 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:35:12,398 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 2, interview_type: bot call
+2024-07-20 12:35:53,296 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:35:53,350 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:35:53,363 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:35:53,417 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:36:05,135 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:36:05,136 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:36:09,599 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 11, interview_type: bot call
+2024-07-20 12:37:27,368 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:37:27,468 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:37:28,828 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:37:28,945 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:37:42,566 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:37:42,567 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:37:44,917 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 3, interview_type: bot call
+2024-07-20 12:37:58,610 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:37:58,668 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:40:13,893 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:40:13,948 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:40:14,238 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:40:14,310 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:40:20,318 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:40:20,339 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:40:24,385 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:40:28,470 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:40:30,836 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 12:40:30,851 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 12:42:12,759 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 12:42:18,082 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:42:18,992 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:43:47,690 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:43:47,691 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:44:01,655 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:44:01,663 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:44:03,005 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:44:03,006 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:45:23,098 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:45:23,108 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:45:23,158 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:45:23,248 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:47:01,142 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:47:01,143 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:47:01,215 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:47:01,222 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:47:07,422 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:47:07,422 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:47:09,098 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 2, interview_type: bot call
+2024-07-20 12:47:31,893 [WARNING] journey: No journey events found for journey_id 186.
+2024-07-20 12:47:31,921 [INFO] journey: Retrieved 3 segment categories for journey_id 186.
+2024-07-20 12:47:33,140 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:47:33,168 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:48:00,863 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:48:00,932 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:48:16,495 [WARNING] journey: No journey events found for journey_id 178.
+2024-07-20 12:48:16,510 [INFO] journey: Retrieved 3 segment categories for journey_id 178.
+2024-07-20 12:48:20,863 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:48:20,865 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:48:22,518 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-20 12:48:47,467 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:48:47,467 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:48:49,021 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 2, interview_type: bot call
+2024-07-20 12:49:29,529 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:49:29,530 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:49:35,763 [WARNING] journey: No journey events found for journey_id 179.
+2024-07-20 12:49:35,770 [INFO] journey: Retrieved 3 segment categories for journey_id 179.
+2024-07-20 12:49:42,600 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-20 12:49:42,601 [INFO] journey: Retrieved 22 campaigns for segment_category_id 1.
+2024-07-20 12:49:43,775 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-20 12:50:08,949 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-20 12:50:08,953 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-20 12:50:10,725 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 11, interview_type: bot call
+2024-07-20 13:01:17,493 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:05:04,901 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:11:30,926 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:14:44,980 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:14:49,572 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 13:14:49,832 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 13:23:37,977 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:27:33,971 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 13:40:49,172 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 15:12:19,814 [INFO] journey: Journeys retrieved successfully.
+2024-07-20 15:13:30,593 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 15:13:30,746 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 15:14:04,419 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 15:14:04,481 [ERROR] journey: An error occurred: 'WSGIRequest' object has no attribute 'UserData'
+2024-07-20 15:14:04,486 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 15:14:10,706 [ERROR] journey: An error occurred: 'WSGIRequest' object has no attribute 'UserData'
+2024-07-20 15:14:10,707 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 15:14:16,830 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+=======
+2024-07-20 15:15:49,702 [ERROR] journey: An error occurred: 'WSGIRequest' object has no attribute 'UserData'
+2024-07-20 15:15:50,554 [WARNING] journey: No journey events found for journey_id 187.
+2024-07-20 15:15:59,154 [INFO] journey: Retrieved 3 segment categories for journey_id 187.
+2024-07-20 15:16:54,826 [INFO] journey: Fetched 6 users for application_id: 1
+>>>>>>> bf3eebf (setting commit)

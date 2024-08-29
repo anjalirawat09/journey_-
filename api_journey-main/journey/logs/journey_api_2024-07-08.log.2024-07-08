@@ -1,0 +1,13 @@
+2024-07-09 05:01:40,979 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")
+2024-07-09 05:26:39,016 [INFO] journey: Fetching details for job ID: 66
+2024-07-09 05:26:39,018 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-09 05:26:39,021 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-09 05:26:39,023 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.hiring_manager' in 'field list'")
+2024-07-09 05:26:41,047 [INFO] journey: Fetching details for job ID: 66
+2024-07-09 05:26:41,049 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-09 05:26:41,052 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-09 05:26:41,054 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.hiring_manager' in 'field list'")
+2024-07-09 05:26:48,641 [INFO] journey: Fetching details for job ID: 66
+2024-07-09 05:26:48,643 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-09 05:26:48,645 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-09 05:26:48,647 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.hiring_manager' in 'field list'")

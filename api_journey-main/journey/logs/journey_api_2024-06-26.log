@@ -1,0 +1,8 @@
+2024-06-26 14:07:55,464 [ERROR] journey: An error occurred while processing completed campaigns: (1048, "Column 'candidate_id' cannot be null")
+2024-06-26 14:07:55,529 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-26 14:08:59,676 [ERROR] journey: No cancelled campaigns found in CandidateJourney
+2024-06-26 18:50:49,769 [INFO] journey: Journeys retrieved successfully.
+2024-06-26 18:50:59,431 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 05:33:55,155 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 05:33:58,262 [INFO] journey: Journeys retrieved successfully.
+2024-06-27 05:34:03,950 [INFO] journey: Journeys retrieved successfully.

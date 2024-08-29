@@ -1,0 +1,571 @@
+<<<<<<< HEAD
+2024-07-10 11:35:42,757 [WARNING] journey: Invalid data provided: {'user': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+2024-07-10 11:36:03,755 [WARNING] journey: Invalid data provided: {'segment_category': [ErrorDetail(string="This field is required for 'Bot Call' interview type.", code='invalid')]}
+2024-07-10 11:36:30,082 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 11:38:24,667 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 15:29:00,855 [ERROR] journey: An error occurred: 'AnonymousUser' object has no attribute 'application_id'
+2024-07-10 15:31:06,611 [ERROR] journey: An error occurred: 'AnonymousUser' object has no attribute 'application_id'
+2024-07-10 15:31:59,212 [ERROR] journey: An error occurred: 'AnonymousUser' object has no attribute 'application_id'
+2024-07-10 15:34:47,330 [ERROR] journey: An error occurred: 'User' object has no attribute 'user_id'
+2024-07-10 15:36:07,646 [ERROR] journey: An error occurred: 'User' object has no attribute 'user'
+2024-07-10 15:37:06,891 [WARNING] journey: Invalid data provided for journey creation.
+2024-07-10 15:38:49,919 [WARNING] journey: Invalid data provided for journey creation.
+2024-07-10 15:39:17,543 [INFO] journey: Journeys created successfully.
+2024-07-10 16:35:44,835 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:14:42,136 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:14:56,371 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:15:47,881 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:17:04,196 [ERROR] journey: An error occurred: Cannot resolve keyword 'manager_id' into field. Choices are: account_locked, add_to_jobs, application, application_id, applicationdepartments, botdetails, campaignevent, campaigns, campaigntriggerhistory, campaigntriggers, candidatejourney, created_at, date_joined, dob, email, emaillog, emailtemplate, first_name, forget_password_attempts, gender, head_of_department, hiring_manager, hiring_manager_user, hiringmanagers, id, is_active, is_admin, is_staff, is_superuser, journey, journey_events_as_user, last_login, last_name, logentry, login_attempts, manager, mobile_no, name, password, phone, profile_pic, role_id, segmentcategories, segments, short_name, smslog, smstemplate, uid, update_at, username
+2024-07-10 17:20:42,355 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:23:33,849 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 17:24:15,852 [INFO] journey: Journeys retrieved successfully.
+<<<<<<< HEAD
+2024-07-10 18:00:05,525 [WARNING] journey: Invalid data provided: {'user': [ErrorDetail(string='This field is required.', code='required')], 'application': [ErrorDetail(string='This field is required.', code='required')]}
+2024-07-10 18:01:23,160 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 18:02:07,849 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 18:04:08,060 [INFO] journey: Journey event is posted successfully with managers.
+<<<<<<< HEAD
+2024-07-10 18:07:50,445 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 18:41:45,313 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 18:42:47,659 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='No interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 18:43:21,218 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='No call channel exists for this campaign.', code='invalid')]}
+2024-07-10 18:43:38,987 [ERROR] journey: An error occurred: Got a `TypeError` when calling `JourneyEvents.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `JourneyEvents.objects.create()`. You may need to make the field read-only, or override the JourneyEventsSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: JourneyEvents() got unexpected keyword arguments: 'hiring_manager_ids'
+
+2024-07-10 19:21:21,810 [WARNING] journey: Invalid data provided: {'hiring_manager_ids': [ErrorDetail(string="This field is required for 'One on one' interview type.", code='invalid')]}
+2024-07-10 21:09:14,815 [WARNING] journey: Invalid data provided: {'hiring_manager_ids': [ErrorDetail(string="This field is required for 'One on one' interview type.", code='invalid')]}
+2024-07-10 21:11:12,361 [ERROR] journey: An error occurred: Got a `TypeError` when calling `JourneyEvents.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `JourneyEvents.objects.create()`. You may need to make the field read-only, or override the JourneyEventsSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: JourneyEvents() got unexpected keyword arguments: 'hiring_manager_ids'
+
+2024-07-10 21:21:27,170 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 21:25:20,226 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 21:31:34,909 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-10 21:32:23,357 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 21:38:23,883 [INFO] journey: Journey event with id 139 updated successfully.
+2024-07-10 21:40:02,289 [INFO] journey: Journey event with id 139 updated successfully.
+2024-07-10 21:43:07,529 [INFO] journey: Journey event with id 139 updated successfully.
+2024-07-10 21:44:34,153 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 21:45:02,519 [INFO] journey: Journey event with id 139 updated successfully.
+<<<<<<< HEAD
+2024-07-10 22:06:33,542 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-10 22:07:00,311 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-10 22:07:28,677 [INFO] journey: Journey events with  journey id 1 retrieved successfully.
+2024-07-10 22:09:31,579 [INFO] journey: Journey events with  journey id 2 retrieved successfully.
+2024-07-10 22:13:45,769 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+=======
+=======
+=======
+=======
+2024-07-10 04:48:10,913 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 09:34:33,535 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:34:56,294 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:34:56,628 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:35:04,581 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:37:29,068 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:37:29,638 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:37:35,615 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:38:00,290 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:38:02,005 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:38:02,638 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:39:06,439 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:39:07,249 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:39:07,434 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:42:29,455 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:42:29,458 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:42:30,707 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:44:34,546 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:44:34,676 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:44:35,127 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:47:02,713 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 09:49:18,227 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 09:49:25,940 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 09:49:45,393 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:50:48,811 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:50:49,010 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:50:49,111 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:52:08,963 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:52:08,964 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:52:09,178 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:52:18,395 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:52:18,599 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:52:19,705 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:52:34,476 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:52:35,239 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:52:37,315 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:53:00,156 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:53:00,249 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:53:00,327 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:53:25,034 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:53:25,661 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:53:26,243 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:54:13,384 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:54:13,941 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:54:14,485 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:54:30,590 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:54:31,722 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:54:33,829 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:55:05,140 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:55:05,142 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:55:05,143 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:55:13,465 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:55:19,931 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:55:22,212 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 09:59:22,908 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 09:59:22,912 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 09:59:24,390 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:08:18,194 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:08:18,201 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:08:18,214 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:08:51,639 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:08:52,205 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:08:52,920 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:13:12,920 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:13:12,983 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:13:12,998 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:13:29,597 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:13:30,105 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:13:30,597 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:18:41,059 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:18:41,136 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:18:41,229 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:19:17,516 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:19:19,386 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:19:19,759 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:19:25,175 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:19:26,982 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:19:27,926 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:19:33,242 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:19:33,387 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:19:37,184 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:27:58,878 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:27:58,968 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:27:58,972 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:57:17,246 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:57:17,264 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:57:17,376 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 10:57:59,594 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 10:57:59,602 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 10:58:00,084 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:31:56,304 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:31:56,384 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:31:56,386 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:36:19,381 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:36:19,425 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:36:19,474 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:36:56,369 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:36:56,417 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:36:56,515 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:37:00,796 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:37:02,355 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:37:03,272 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:37:07,295 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:37:07,295 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:37:07,503 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:37:11,340 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:37:12,313 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:37:12,361 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:37:44,793 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:37:44,794 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:37:44,839 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:38:26,210 [WARNING] journey: Invalid data provided: {'interview_type': [ErrorDetail(string='This field may not be blank.', code='blank')], 'user': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+2024-07-10 11:44:32,207 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:44:32,414 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:44:32,829 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:44:33,285 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:44:33,389 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:44:33,593 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:49:44,182 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:49:44,259 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:49:45,100 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:50:01,006 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:50:01,702 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:50:02,338 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:50:23,753 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:50:24,539 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:50:24,975 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:51:27,759 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:51:27,834 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:51:27,835 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:53:13,769 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:53:13,846 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:53:13,934 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:53:32,409 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:53:32,492 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:53:32,576 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:54:05,712 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:54:05,778 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:54:05,788 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:54:26,337 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:54:26,343 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:54:26,346 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:55:04,587 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:55:04,746 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:55:04,840 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:56:35,603 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:56:35,685 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:56:35,784 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:57:30,678 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:57:33,119 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:57:33,652 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 11:58:11,083 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 11:58:11,210 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 11:58:11,315 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:03:35,931 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:03:35,973 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:03:36,127 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:05:29,288 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:05:29,384 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:05:29,388 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:06:45,062 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:06:45,759 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:06:45,981 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:14:06,102 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:14:06,259 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:14:06,405 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:15:17,940 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:15:18,009 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:15:18,055 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:16:29,408 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:16:29,537 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:16:29,603 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:17:47,825 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:17:49,417 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:17:49,515 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:17:54,576 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:17:54,618 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:17:54,863 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:17:58,344 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:17:58,376 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:18:00,141 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:18:04,827 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:18:05,219 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:18:08,441 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:18:14,527 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:18:14,804 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:18:17,839 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 12:18:18,058 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 12:19:12,515 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:19:12,520 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:19:12,523 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:19:19,019 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 12:19:19,118 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 12:20:00,501 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:20:00,759 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:20:04,177 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:20:10,533 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:20:10,606 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:20:26,188 [WARNING] journey: Invalid data provided: {'user': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+2024-07-10 12:24:47,816 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:24:47,891 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:24:48,027 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:28:31,375 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:28:31,385 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:28:31,411 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:28:41,687 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:28:42,582 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:30:03,539 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:30:03,547 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:30:03,705 [INFO] journey: Fetched 6 users for application_id: 1
+>>>>>>> 107c5b2 (manoj commit)
+>>>>>>> c93a754 (datat commit)
+2024-07-10 12:39:56,891 [WARNING] journey: No journey events found for journey_id 121.
+2024-07-10 12:39:56,964 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:39:57,867 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:40:01,534 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:40:01,700 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:40:30,702 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-07-10 12:41:12,902 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 12:41:13,675 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:41:23,635 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:41:23,676 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:41:24,613 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:41:48,263 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:41:48,334 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:41:50,865 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:43:48,540 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:43:48,590 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:44:16,377 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='No interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 12:45:27,779 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:45:27,843 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:45:27,994 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:46:41,026 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:46:41,112 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:46:46,204 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:46:59,526 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:46:59,539 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:48:09,199 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:48:10,597 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:48:10,674 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:48:10,804 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:48:44,962 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:48:44,971 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:48:45,109 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:49:58,637 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:49:58,820 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:49:59,651 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:50:51,450 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:50:51,466 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:50:51,603 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:54:21,638 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:54:21,755 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:54:21,771 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:54:25,739 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:54:25,757 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:54:25,758 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:54:55,449 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:54:55,476 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:54:55,490 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:55:32,171 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:55:32,172 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:55:32,271 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:55:41,695 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:55:41,708 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:55:42,805 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:55:55,353 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 12:55:55,371 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 12:55:55,402 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 12:56:05,126 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:56:05,146 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:56:13,295 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 12:56:13,331 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 12:56:19,440 [INFO] journey: Retrieved 1 bots for segment_category_id 3.
+2024-07-10 12:56:19,655 [INFO] journey: Retrieved 5 campaigns for segment_category_id 3.
+2024-07-10 12:56:26,703 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 12:56:26,814 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 12:56:43,072 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 12:56:44,206 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 12:56:50,834 [INFO] journey: Retrieved 1 bots for segment_category_id 3.
+2024-07-10 12:56:50,843 [INFO] journey: Retrieved 5 campaigns for segment_category_id 3.
+2024-07-10 13:01:37,871 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:01:37,915 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:01:42,942 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:01:42,973 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:02:10,230 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-07-10 13:02:27,131 [ERROR] journey: An error occurred: Got a `TypeError` when calling `JourneyEvents.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `JourneyEvents.objects.create()`. You may need to make the field read-only, or override the JourneyEventsSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/query.py", line 675, in create
+    obj = self.model(**kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/base.py", line 567, in __init__
+    raise TypeError(
+TypeError: JourneyEvents() got unexpected keyword arguments: 'hiring_manager_ids'
+
+2024-07-10 13:05:10,595 [ERROR] journey: An error occurred: Got a `TypeError` when calling `JourneyEvents.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `JourneyEvents.objects.create()`. You may need to make the field read-only, or override the JourneyEventsSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/query.py", line 675, in create
+    obj = self.model(**kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/base.py", line 567, in __init__
+    raise TypeError(
+TypeError: JourneyEvents() got unexpected keyword arguments: 'hiring_manager_ids'
+
+2024-07-10 13:05:30,471 [WARNING] journey: Invalid data provided: {'hiring_manager_ids': [ErrorDetail(string="This field is required for 'One on one' interview type.", code='invalid')]}
+2024-07-10 13:07:34,738 [ERROR] journey: An error occurred: Got a `TypeError` when calling `JourneyEvents.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `JourneyEvents.objects.create()`. You may need to make the field read-only, or override the JourneyEventsSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/query.py", line 675, in create
+    obj = self.model(**kwargs)
+  File "/home/manoj/Projects/python/env/all_api_project/authorication/lib/python3.10/site-packages/django/db/models/base.py", line 567, in __init__
+    raise TypeError(
+TypeError: JourneyEvents() got unexpected keyword arguments: 'hiring_manager_ids'
+
+2024-07-10 13:07:42,133 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:07:42,213 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:08:31,467 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:08:31,615 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:08:31,708 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:08:46,034 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:08:46,221 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:08:47,603 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:08:47,686 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:24:52,607 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:24:52,762 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:25:47,451 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:25:48,559 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:25:50,857 [INFO] journey: Retrieved 1 bots for segment_category_id 3.
+2024-07-10 13:25:50,915 [INFO] journey: Retrieved 5 campaigns for segment_category_id 3.
+2024-07-10 13:25:53,643 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:25:53,702 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:26:01,794 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:26:01,951 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:26:08,877 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:26:09,011 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:32:23,830 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:32:23,866 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:32:23,945 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:40:42,581 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:40:42,662 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:40:42,817 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:40:50,560 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:40:50,697 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:40:50,699 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:41:38,101 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:41:38,206 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:41:44,324 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:41:46,360 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:41:46,397 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:41:46,429 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:43:00,808 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:43:00,822 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:43:01,060 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:43:05,396 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:43:05,441 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:43:07,156 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:43:08,372 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:43:15,575 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:43:16,553 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:59:19,777 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 13:59:20,797 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 13:59:20,862 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 13:59:23,998 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 13:59:24,086 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:59:25,331 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 13:59:25,361 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 13:59:29,536 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 13:59:29,668 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 14:10:27,817 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:10:27,834 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:10:28,909 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:10:31,815 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 14:10:31,889 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 14:10:33,130 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:10:33,162 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:10:37,215 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 14:10:37,253 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 14:12:04,262 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:12:04,366 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:12:04,420 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:12:10,779 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 14:12:10,830 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 14:12:13,286 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:12:13,735 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:12:19,353 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:12:19,390 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:14:17,904 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:14:17,929 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:14:18,005 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:16:40,212 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:16:40,314 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:16:42,196 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:16:42,392 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:16:42,393 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:16:59,071 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:16:59,256 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:17:22,643 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:17:22,678 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:17:22,696 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:17:25,476 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:17:25,640 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:18:37,503 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:18:37,506 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:18:37,696 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:18:38,651 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:18:38,849 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:21:56,227 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:21:56,439 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:21:57,876 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-10 14:22:07,467 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 14:23:13,557 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:23:13,562 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:23:13,675 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:23:14,637 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:23:14,823 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:23:20,924 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:23:21,015 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:23:22,720 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-10 14:23:25,566 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 14:23:36,025 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 14:24:16,977 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:24:17,060 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:24:17,074 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:24:18,262 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:24:18,269 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:24:27,248 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:24:27,345 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:24:28,768 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 1, interview_type: bot call
+2024-07-10 14:24:32,099 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 14:24:32,274 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string='Interview channel exists for this campaign.', code='invalid')]}
+2024-07-10 14:24:55,975 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 16, interview_type: bot call
+2024-07-10 14:25:00,779 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 15, interview_type: bot call
+2024-07-10 14:32:34,051 [WARNING] journey: No journey events found for journey_id 120.
+2024-07-10 14:34:12,198 [WARNING] journey: No journey events found for journey_id 120.
+2024-07-10 14:34:12,536 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:34:12,564 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:34:12,609 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:34:13,658 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:34:13,778 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:35:06,085 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 14:35:06,276 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 14:35:06,457 [WARNING] journey: No journey events found for journey_id 120.
+2024-07-10 14:35:07,176 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 14:35:08,277 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 14:35:08,340 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 14:36:44,019 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+>>>>>>> 96d5448 (datat commit)
+2024-07-10 16:34:08,680 [INFO] journey: Retrieved 5 campaigns for segment_category_id 2.
+2024-07-10 16:34:09,703 [INFO] journey: Retrieved 1 bots for segment_category_id 2.
+2024-07-10 16:34:10,440 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 16:34:10,459 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 16:34:17,164 [INFO] journey: Processed CheckCampaignInterview request successfully for campaign_id: 16, interview_type: bot call
+2024-07-10 16:34:37,344 [WARNING] journey: Invalid data provided: {'non_field_errors': [ErrorDetail(string="Either 'immediately' or 'relative_time_period_interval' must be provided.", code='invalid')]}
+2024-07-10 16:34:48,127 [INFO] journey: Journey event is posted successfully with managers.
+2024-07-10 16:34:48,647 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 16:34:51,859 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 16:34:52,454 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 16:34:52,914 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 16:34:53,479 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 16:35:10,698 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 16:35:10,702 [INFO] journey: Fetched 6 users for application_id: 1
+2024-07-10 16:36:05,484 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 16:36:05,509 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 16:36:05,723 [INFO] journey: Retrieved 3 segment categories for journey_id 121.
+2024-07-10 16:36:06,044 [INFO] journey: Retrieved 12 campaigns for segment_category_id 1.
+2024-07-10 16:36:06,093 [INFO] journey: Retrieved 1 bots for segment_category_id 1.
+2024-07-10 16:36:43,522 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 16:36:48,140 [WARNING] journey: No journey events found for journey_id 122.
+2024-07-10 16:37:15,383 [WARNING] journey: No journey events found for journey_id 122.
+2024-07-10 16:37:15,400 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 16:37:46,870 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 16:37:50,556 [WARNING] journey: No journey events found for journey_id 122.
+2024-07-10 16:38:52,164 [INFO] journey: Journeys retrieved successfully.
+2024-07-10 16:39:16,859 [INFO] journey: Journey events with  journey id 121 retrieved successfully.
+2024-07-10 16:39:18,300 [INFO] journey: Journeys retrieved successfully.
+>>>>>>> 704625f (new commit)

@@ -1,0 +1,793 @@
+2024-07-05 05:03:10,593 [INFO] journey: Journeys created successfully.
+2024-07-05 05:03:11,012 [WARNING] journey: No journey events found for journey_id 62.
+2024-07-05 05:10:15,237 [INFO] journey: Journeys created successfully.
+2024-07-05 05:10:37,595 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 05:11:03,587 [INFO] journey: Journey events with  journey id 63 retrieved successfully.
+2024-07-05 05:11:41,306 [INFO] journey: Journeys created successfully.
+2024-07-05 05:14:40,604 [INFO] journey: Journey event is posted successfully.
+2024-07-05 05:25:06,232 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 05:25:06,234 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 05:25:06,237 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 05:25:06,240 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 05:25:06,244 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 05:25:06,247 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 05:35:22,626 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 05:36:17,432 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 05:37:00,699 [INFO] journey: Journeys created successfully.
+2024-07-05 05:37:01,368 [WARNING] journey: No journey events found for journey_id 67.
+2024-07-05 05:37:29,557 [INFO] journey: Journey event is posted successfully.
+2024-07-05 05:38:03,069 [INFO] journey: Journey events with  journey id 67 retrieved successfully.
+2024-07-05 05:48:07,271 [INFO] journey: Journey event is posted successfully.
+2024-07-05 05:48:51,323 [INFO] journey: Journeys created successfully.
+2024-07-05 05:54:36,031 [INFO] journey: Journey event is posted successfully.
+2024-07-05 05:55:23,104 [INFO] journey: Journeys created successfully.
+2024-07-05 05:57:53,737 [INFO] journey: Journey events with  journey id 70 retrieved successfully.
+2024-07-05 06:00:01,413 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 06:00:07,432 [INFO] journey: Journey events with  journey id 70 retrieved successfully.
+2024-07-05 06:07:49,193 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 06:10:57,959 [INFO] journey: Journey events with  journey id 71 retrieved successfully.
+2024-07-05 06:11:37,965 [INFO] journey: Journey events with  journey id 71 retrieved successfully.
+2024-07-05 06:13:16,529 [INFO] journey: Journey events with  journey id 71 retrieved successfully.
+2024-07-05 06:15:33,546 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 06:15:33,549 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 06:15:33,552 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 06:15:33,554 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 06:15:46,917 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:15:46,920 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 06:15:46,923 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:15:46,925 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:15:46,928 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:15:46,930 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:15:49,424 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 06:15:49,429 [INFO] journey: Successfully fetched candidate data
+2024-07-05 06:19:10,686 [INFO] journey: Fetching details for job ID: 76
+2024-07-05 06:19:10,689 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:10,690 [INFO] journey: Fetching journey events for journey ID: 1
+2024-07-05 06:19:10,692 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-07-05 06:19:10,696 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-07-05 06:19:10,698 [INFO] journey: Fetching status counts for journey event ID: 66
+2024-07-05 06:19:10,700 [INFO] journey: Successfully fetched data for job ID: 76
+2024-07-05 06:19:15,355 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:15,358 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:15,360 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:15,362 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:15,365 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:15,367 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:15,704 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:15,706 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:15,708 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:15,711 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:15,713 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:15,715 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:16,399 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:16,401 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:16,403 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:16,405 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:16,408 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:16,410 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:19,303 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:19,306 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:19,308 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:19,310 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:19,312 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:19,315 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:19,647 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:19,649 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:19,650 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:19,652 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:19,654 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:19,656 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:20,020 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:20,022 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:20,025 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:20,027 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:20,029 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:20,032 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:46,062 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:46,064 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:46,066 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:46,068 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:46,071 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:46,073 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:19:46,737 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:19:46,739 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:19:46,741 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:19:46,743 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:19:46,745 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:19:46,747 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:20:13,381 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:20:13,384 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:20:13,386 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:20:13,388 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:20:13,391 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:20:13,394 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:22:58,112 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:22:58,114 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 06:22:58,116 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:22:58,119 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:22:58,122 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:22:58,125 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:23:11,170 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 06:23:11,172 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:23:11,174 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 06:23:11,177 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 06:26:39,818 [INFO] journey: Journey events with  journey id 71 retrieved successfully.
+2024-07-05 06:31:01,474 [INFO] journey: Journey event is posted successfully.
+2024-07-05 06:31:01,587 [INFO] journey: Journey events with  journey id 72 retrieved successfully.
+2024-07-05 06:39:41,990 [INFO] journey: Journey events with  journey id 72 retrieved successfully.
+2024-07-05 06:41:08,423 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 06:41:08,429 [INFO] journey: Successfully fetched candidate data
+2024-07-05 06:41:18,534 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:41:18,536 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 06:41:18,538 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:41:18,540 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:41:18,549 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:41:18,551 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:42:22,423 [WARNING] journey: No journey events found for journey_id 73.
+2024-07-05 06:46:20,374 [INFO] journey: Journeys created successfully.
+2024-07-05 06:46:20,668 [WARNING] journey: No journey events found for journey_id 74.
+2024-07-05 06:46:50,809 [INFO] journey: Journeys created successfully.
+2024-07-05 06:46:51,125 [WARNING] journey: No journey events found for journey_id 75.
+2024-07-05 06:49:29,568 [INFO] journey: Journey event is posted successfully.
+2024-07-05 06:52:01,123 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 06:52:01,125 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:52:01,127 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 06:52:01,129 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 06:52:01,132 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 06:52:01,134 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 06:55:22,826 [INFO] journey: Fetching details for job ID: 67
+2024-07-05 06:55:22,831 [INFO] journey: Fetching candidate statuses for status: Under Review
+2024-07-05 06:55:22,832 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 06:55:22,834 [INFO] journey: Successfully fetched data for job ID: 67
+2024-07-05 06:55:24,739 [INFO] journey: Fetching details for job ID: 67
+2024-07-05 06:55:24,742 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 06:55:24,745 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 06:55:24,747 [INFO] journey: Successfully fetched data for job ID: 67
+2024-07-05 06:59:53,366 [INFO] journey: Fetching details for job ID: 85
+2024-07-05 06:59:53,368 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 06:59:53,372 [INFO] journey: Fetching journey events for journey ID: 1
+2024-07-05 06:59:53,375 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-07-05 06:59:53,377 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-07-05 06:59:53,380 [INFO] journey: Fetching status counts for journey event ID: 66
+2024-07-05 06:59:53,383 [INFO] journey: Successfully fetched data for job ID: 85
+2024-07-05 07:00:44,340 [INFO] journey: Fetching details for job ID: 67
+2024-07-05 07:00:44,342 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 07:00:44,344 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 07:00:44,346 [INFO] journey: Successfully fetched data for job ID: 67
+2024-07-05 07:00:52,451 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:00:52,453 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:00:52,456 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:00:52,457 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:00:52,461 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:00:52,464 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:00:54,992 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:00:54,994 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:00:54,996 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:00:54,998 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:00:55,001 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:00:55,004 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:00:56,751 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:00:56,755 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:01:46,871 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:46,873 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:46,875 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:46,877 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:46,880 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:46,883 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:01:48,804 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:48,806 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:48,809 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:48,810 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:48,814 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:48,817 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:01:49,186 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:49,189 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:49,191 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:49,194 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:49,198 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:49,202 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:01:49,521 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:49,523 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:49,525 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:49,528 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:49,532 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:49,534 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:01:49,895 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:49,898 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:49,901 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:49,903 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:49,908 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:49,911 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:01:50,938 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:01:50,941 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:01:50,944 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:01:50,947 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:01:50,950 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:01:50,955 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:05:15,705 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:05:15,707 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:05:15,710 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:05:15,714 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:05:15,716 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:05:15,719 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:07:02,623 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:07:02,625 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:07:02,627 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:07:02,629 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:07:02,632 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:07:02,634 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:09:47,847 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:09:47,848 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:09:47,852 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:09:47,854 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:09:47,857 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:09:47,860 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:09:56,822 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 07:09:56,826 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:10:19,618 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:10:19,624 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:10:36,242 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:10:36,244 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:10:36,276 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:10:36,278 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:10:36,281 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:10:36,283 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:10:40,980 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:10:40,986 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:10:57,050 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:10:57,052 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:10:57,054 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:10:57,058 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:10:57,061 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:10:57,063 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:10:58,495 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:10:58,501 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:11:20,533 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:11:20,536 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:11:20,538 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:11:20,540 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:11:20,544 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:11:20,546 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:11:34,290 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:11:34,295 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:11:37,730 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 07:11:37,734 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:15:08,081 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:15:08,083 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:15:08,086 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:15:08,088 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:15:08,090 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:15:08,093 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:15:09,506 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:15:09,511 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:15:47,067 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:15:47,073 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:20:57,366 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:20:57,368 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:20:57,371 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:20:57,373 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:20:57,376 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:20:57,382 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:22:53,181 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 07:22:53,185 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:24:34,829 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:24:34,830 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:24:34,833 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:24:34,835 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:24:34,838 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:24:34,840 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:25:49,729 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:25:49,731 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:25:49,733 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:25:49,735 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:25:49,738 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:25:49,742 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:28:10,211 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:28:10,218 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:37:16,196 [INFO] journey: Fetching details for job ID: 85
+2024-07-05 07:37:16,199 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:37:16,202 [INFO] journey: Fetching journey events for journey ID: 1
+2024-07-05 07:37:16,205 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-07-05 07:37:16,208 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-07-05 07:37:16,211 [INFO] journey: Fetching status counts for journey event ID: 66
+2024-07-05 07:37:16,213 [INFO] journey: Successfully fetched data for job ID: 85
+2024-07-05 07:37:25,204 [INFO] journey: Fetching details for job ID: 85
+2024-07-05 07:37:25,207 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:37:25,209 [INFO] journey: Fetching journey events for journey ID: 1
+2024-07-05 07:37:25,211 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-07-05 07:37:25,214 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-07-05 07:37:25,217 [INFO] journey: Fetching status counts for journey event ID: 66
+2024-07-05 07:37:25,219 [INFO] journey: Successfully fetched data for job ID: 85
+2024-07-05 07:37:41,065 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 07:37:41,067 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:37:41,069 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 07:37:41,071 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 07:38:21,313 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:38:21,314 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:38:21,317 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:38:21,319 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:38:21,322 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:38:21,326 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:38:52,792 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 07:38:52,794 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 07:38:52,797 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 07:38:52,800 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 07:38:52,803 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 07:38:52,806 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 07:45:53,673 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:45:53,677 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:46:07,921 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:46:07,926 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:46:11,304 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 07:46:11,309 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:46:14,505 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 07:46:14,510 [INFO] journey: Successfully fetched candidate data
+2024-07-05 07:53:55,225 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 08:07:47,073 [WARNING] journey: No journey events found for journey_id 77.
+2024-07-05 08:34:48,213 [INFO] journey: Journey event is posted successfully.
+2024-07-05 08:53:41,830 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 08:53:41,832 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 08:53:41,835 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 08:53:41,838 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 08:53:41,841 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 08:53:41,844 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 08:54:07,696 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 08:54:07,701 [INFO] journey: Successfully fetched candidate data
+2024-07-05 08:56:29,266 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 08:56:29,268 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 08:56:29,270 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 08:56:29,274 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 08:56:29,277 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 08:56:29,280 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 08:58:39,458 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 08:58:39,460 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 08:58:39,463 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 08:58:39,465 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 08:58:39,468 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 08:58:39,470 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:00:52,671 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:00:52,675 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:00:52,677 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:00:52,679 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:00:52,682 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:00:52,684 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:08:10,182 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:08:10,187 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:09:57,700 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:09:57,706 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:10:10,648 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:10:10,651 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:10:10,654 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:10:10,657 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:10:10,661 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:10:10,663 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:10:43,273 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:10:43,276 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:10:43,279 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:10:43,281 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:10:43,284 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:10:43,288 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:10:46,963 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:10:46,968 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:10:59,481 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:10:59,483 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:10:59,485 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:10:59,488 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:10:59,490 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:10:59,493 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:11:05,852 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:11:05,858 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:21:56,978 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:21:56,980 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:21:56,983 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:21:56,985 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:21:56,988 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:21:56,990 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:21:58,742 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:21:58,748 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:21:59,208 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:21:59,213 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:36:16,674 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 09:36:16,676 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:36:16,679 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 09:36:16,681 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 09:36:16,685 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 09:36:16,687 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 09:37:17,000 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:37:17,004 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:37:39,094 [INFO] journey: Journeys retrieved successfully.
+2024-07-05 09:47:01,996 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 09:47:01,999 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:47:02,001 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 09:47:02,003 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 09:47:07,731 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 09:47:07,734 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 09:47:07,737 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 09:47:07,739 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 09:48:43,703 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:48:43,708 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:48:58,905 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 09:48:58,911 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:49:03,247 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 09:49:03,252 [INFO] journey: Successfully fetched candidate data
+2024-07-05 09:49:09,290 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 09:49:09,299 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:30:50,616 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 10:30:50,619 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:30:50,622 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 10:30:50,625 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 10:30:50,629 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 10:30:50,632 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 10:30:53,169 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:30:53,185 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:31:11,842 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:31:11,848 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:31:12,665 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:31:12,672 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:31:17,618 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:31:17,625 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:31:19,099 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:31:19,108 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:31:22,101 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 10:31:22,106 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:32:06,149 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:32:06,155 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:32:19,735 [INFO] journey: Fetching candidate IDs for status_id: 80, journey_id: 27, journey_event_id: 61, job_id: 66
+2024-07-05 10:32:19,741 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:35:21,205 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:35:21,212 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:37:01,744 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 10:37:01,746 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:37:01,748 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 10:37:01,751 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 10:37:01,754 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 10:37:01,757 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 10:37:25,511 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:37:25,516 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:41:02,741 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 10:41:02,743 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:41:02,746 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 10:41:02,753 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 10:41:02,758 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 10:41:02,761 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 10:41:33,707 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 10:41:33,709 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:41:33,712 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 10:41:33,714 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 10:41:33,717 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 10:41:33,719 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 10:46:16,472 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 10:46:16,475 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:46:16,477 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 10:46:16,479 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 10:46:19,442 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 10:46:19,444 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 10:46:19,446 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 10:46:19,448 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 10:50:33,238 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:50:33,245 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:50:34,278 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:50:34,288 [INFO] journey: Successfully fetched candidate data
+2024-07-05 10:50:34,563 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 10:50:34,568 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:00:22,534 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:00:22,536 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:00:22,540 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:00:22,544 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:00:22,547 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:00:22,550 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:00:50,707 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:00:50,711 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:00:56,953 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:00:56,955 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:00:56,957 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:00:56,960 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:00:56,964 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:00:56,968 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:01:21,750 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:01:21,757 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:01:36,362 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:01:36,365 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:01:36,367 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:01:36,369 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:01:36,372 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:01:36,375 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:01:38,083 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:01:38,085 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:01:38,087 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:01:38,089 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:01:38,092 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:01:38,095 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:03:00,279 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:03:00,281 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:03:00,284 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:03:00,287 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:03:00,291 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:03:00,294 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:03:09,878 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:03:09,882 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:03:09,884 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:03:09,886 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:03:09,890 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:03:09,892 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:04:24,090 [WARNING] journey: Validation error: {'status': [ErrorDetail(string='Status "all" is not valid.', code='invalid')]}
+2024-07-05 11:04:49,919 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:04:49,924 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:05:00,939 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:05:00,941 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:05:00,944 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:05:00,946 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:05:00,949 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:05:00,952 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:05:44,720 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:05:44,722 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:05:44,724 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:05:44,726 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:05:44,729 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:05:44,731 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:06:48,908 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:06:48,910 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:06:48,913 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:06:48,916 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:06:48,918 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:06:48,921 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:07:09,197 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:07:09,203 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:07:28,959 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:07:28,961 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:07:28,964 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:07:28,966 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:07:28,968 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:07:28,973 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:07:31,961 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:07:31,964 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:07:31,967 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:07:31,970 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:07:31,972 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:07:31,975 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:07:34,861 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:07:34,863 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:07:34,865 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:07:34,867 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:07:34,869 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:07:34,871 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:07:48,758 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:07:48,764 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:07:55,864 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:07:55,866 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:07:55,869 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:07:55,871 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:07:55,874 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:07:55,876 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:08:50,930 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:08:50,932 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:08:50,935 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:08:50,937 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:08:50,940 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:08:50,942 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:08:55,204 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:08:55,207 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:08:55,210 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:08:55,213 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:08:55,216 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:08:55,219 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:09:01,790 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:09:01,794 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:09:31,051 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:09:31,056 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:09:46,379 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:09:46,381 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:09:46,383 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:09:46,387 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:09:46,389 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:09:46,392 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:09:49,864 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:09:49,869 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:09:49,872 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:09:49,876 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:09:49,879 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:09:49,881 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:10:30,242 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:10:30,243 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:10:30,247 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:10:30,249 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:10:30,251 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:10:30,256 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:11:20,804 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:11:20,806 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:11:20,809 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:11:20,811 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:11:20,814 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:11:20,816 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:12:12,608 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:12:12,611 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:12:12,613 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:12:12,615 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:12:12,618 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:12:12,620 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:14:54,256 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-05 11:15:05,973 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:15:05,976 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:15:05,979 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:15:05,981 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:15:05,983 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:15:05,987 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:16:40,678 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-05 11:16:47,669 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:16:47,671 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:16:47,673 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:16:47,677 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:16:47,680 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:16:47,687 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:17:07,416 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:17:07,418 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:17:07,420 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:17:07,424 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:17:07,427 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:17:07,430 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:21:10,746 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:21:10,749 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:21:10,751 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:21:10,755 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:21:10,758 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:21:10,765 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:24:08,003 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:24:08,005 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:24:08,009 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:24:08,011 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:24:08,014 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:24:08,016 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:27:36,864 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-05 11:28:28,201 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-05 11:29:09,342 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:29:09,346 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:29:09,348 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:29:09,352 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:29:09,355 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:29:09,358 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:29:31,952 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:29:31,956 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:29:45,814 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:29:45,816 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:29:45,819 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:29:45,822 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:29:45,827 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:29:45,831 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:29:46,913 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:29:46,915 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:29:46,917 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:29:46,919 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:29:46,922 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:29:46,924 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:29:48,480 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:29:48,482 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:29:48,485 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:29:48,487 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:29:48,490 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:29:48,492 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:29:57,239 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:29:57,244 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:30:11,165 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:30:11,169 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:30:31,225 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:30:31,230 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:44:41,047 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:44:41,052 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:44:41,642 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:44:41,647 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:50:08,977 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:50:08,982 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:50:09,631 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:50:09,636 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:50:14,593 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:50:14,598 [INFO] journey: Successfully fetched candidate data
+2024-07-05 11:50:27,005 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:50:27,008 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 11:50:27,009 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:50:27,012 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:50:27,015 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:50:27,017 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:50:29,598 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:50:29,601 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 11:50:29,603 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:50:29,606 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:50:29,610 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:50:29,613 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:50:30,100 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:50:30,102 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 11:50:30,104 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:50:30,106 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:50:30,109 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:50:30,112 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:23,218 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:23,221 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:23,224 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:23,227 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:23,230 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:23,234 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:25,821 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:25,823 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:25,826 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:25,828 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:25,831 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:25,834 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:25,968 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:25,970 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:25,972 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:25,975 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:25,978 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:25,980 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:28,206 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:28,208 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:28,211 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:28,212 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:28,216 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:28,218 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:49,749 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:49,751 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 11:51:49,753 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:49,755 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:49,757 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:49,759 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:52,786 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:52,789 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:52,792 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:52,794 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:52,800 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:52,803 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:51:54,246 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")
+2024-07-05 11:51:57,346 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:51:57,348 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:51:57,351 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:51:57,355 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:51:57,358 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:51:57,361 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:52:01,426 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:52:01,428 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:52:01,431 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:52:01,433 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:52:01,436 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:52:01,439 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:52:43,957 [ERROR] journey: Validation error: {'status_id': ['A valid integer is required.'], 'journey_id': ['A valid integer is required.'], 'journey_event_id': ['A valid integer is required.']}
+2024-07-05 11:53:26,069 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:53:26,070 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:53:26,072 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:53:26,074 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:53:26,076 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:53:26,078 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:53:39,586 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:53:39,588 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-05 11:53:39,590 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:53:39,593 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:53:39,596 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:53:39,598 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:54:05,119 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 11:54:05,122 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 11:54:05,125 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 11:54:05,128 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 11:54:05,131 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 11:54:05,134 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 11:54:06,678 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 11:54:06,683 [INFO] journey: Successfully fetched candidate data
+2024-07-05 12:01:32,822 [WARNING] journey: Validation error: {'status': [ErrorDetail(string='Status "all" is not valid.', code='invalid')]}
+2024-07-05 12:07:26,117 [ERROR] journey: An error occurred: (1054, "Unknown column 'category' in 'field list'")
+2024-07-05 12:09:04,693 [ERROR] journey: An error occurred: (1054, "Unknown column 'category' in 'field list'")
+2024-07-05 12:10:55,286 [ERROR] journey: An error occurred: (1054, "Unknown column 'category' in 'field list'")
+2024-07-05 12:12:52,094 [ERROR] journey: An error occurred: (1054, "Unknown column 'category' in 'field list'")
+2024-07-05 12:13:38,135 [WARNING] journey: Validation error: {'status': [ErrorDetail(string='Status "all" is not valid.', code='invalid')]}
+2024-07-05 12:14:54,500 [WARNING] journey: Validation error: {'status': [ErrorDetail(string='Status "all" is not valid.', code='invalid')]}
+2024-07-05 12:23:48,710 [WARNING] journey: Validation error: {'status': [ErrorDetail(string='Status "all" is not valid.', code='invalid')]}
+2024-07-05 12:30:43,931 [INFO] journey: Fetching details for job ID: 2
+2024-07-05 12:30:43,934 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 12:30:43,936 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-05 12:30:43,942 [INFO] journey: Successfully fetched data for job ID: 2
+2024-07-05 12:31:31,771 [INFO] journey: Fetching details for job ID: 66
+2024-07-05 12:31:31,773 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-05 12:31:31,775 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-05 12:31:31,778 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-07-05 12:31:31,782 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-07-05 12:31:31,785 [INFO] journey: Successfully fetched data for job ID: 66
+2024-07-05 12:31:35,002 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-07-05 12:31:35,009 [INFO] journey: Successfully fetched candidate data
+2024-07-05 12:40:52,906 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")
+2024-07-05 12:42:03,727 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")

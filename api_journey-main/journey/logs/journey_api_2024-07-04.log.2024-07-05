@@ -1,0 +1,46 @@
+2024-07-08 06:08:21,888 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:08:21,890 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:08:21,893 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:08:21,894 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:21:12,745 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")
+2024-07-08 06:21:40,222 [ERROR] journey: An error occurred: (1054, "Unknown column 'journey.category' in 'field list'")
+2024-07-08 06:35:03,346 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:35:03,349 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:35:03,352 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:35:03,353 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:57:27,478 [INFO] journey: Fetching details for job ID: 67
+2024-07-08 06:57:27,480 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:57:27,482 [INFO] journey: Fetching journey events for journey ID: None
+2024-07-08 06:57:27,484 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:57:38,988 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:57:38,991 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:57:38,994 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:57:38,995 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:57:39,521 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:57:39,524 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:57:39,526 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:57:39,528 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:05,261 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:05,263 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:58:05,265 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:05,267 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:08,810 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:08,813 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:58:08,815 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:08,817 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:09,107 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:09,109 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:58:09,111 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:09,113 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:09,635 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:09,638 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:58:09,641 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:09,643 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:15,504 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:15,507 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-07-08 06:58:15,513 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:15,515 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")
+2024-07-08 06:58:27,071 [INFO] journey: Fetching details for job ID: 66
+2024-07-08 06:58:27,073 [INFO] journey: Fetching candidate statuses for status: Rejected
+2024-07-08 06:58:27,076 [INFO] journey: Fetching journey events for journey ID: 27
+2024-07-08 06:58:27,078 [ERROR] journey: An unexpected error occurred: (1054, "Unknown column 'journey_events.bot_type' in 'field list'")

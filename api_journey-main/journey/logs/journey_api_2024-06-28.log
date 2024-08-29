@@ -1,0 +1,23 @@
+2024-06-28 16:43:36,876 [INFO] journey: Fetching details for job ID: 2
+2024-06-28 16:43:36,953 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-28 16:43:37,028 [INFO] journey: Fetching journey events for journey ID: 1
+2024-06-28 16:43:37,118 [INFO] journey: Fetching status counts for journey event ID: 2
+2024-06-28 16:43:37,231 [INFO] journey: Fetching status counts for journey event ID: 3
+2024-06-28 16:43:37,306 [INFO] journey: Successfully fetched data for job ID: 2
+2024-06-28 16:45:02,379 [INFO] journey: No jobs to add whose journey is not updated in AddToJobs.
+2024-06-28 16:47:17,883 [INFO] journey: Fetching details for job ID: 66
+2024-06-28 16:47:18,198 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-28 16:47:18,355 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-28 16:47:19,199 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-28 16:47:19,351 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-28 16:47:19,463 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-28 16:47:25,653 [INFO] journey: Fetching candidate IDs for status_id: 89, journey_id: 27, journey_event_id: 62, job_id: 66
+2024-06-28 16:47:25,758 [INFO] journey: Successfully fetched candidate data
+2024-06-28 16:47:58,023 [INFO] journey: Fetching details for job ID: 66
+2024-06-28 16:48:00,043 [INFO] journey: Fetching candidate statuses for status: In Process
+2024-06-28 16:48:00,374 [INFO] journey: Fetching journey events for journey ID: 27
+2024-06-28 16:48:00,546 [INFO] journey: Fetching status counts for journey event ID: 61
+2024-06-28 16:48:00,734 [INFO] journey: Fetching status counts for journey event ID: 62
+2024-06-28 16:48:01,234 [INFO] journey: Successfully fetched data for job ID: 66
+2024-06-28 16:54:29,727 [INFO] journey: Job successfully added to CandidateJourney: job_id=2, candidate_id=1422, journey_id=2
+2024-06-28 16:54:29,728 [INFO] journey: Jobs added to CandidateJourney successfully.
